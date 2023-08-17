@@ -1,0 +1,81 @@
+
+# My most used "Command Mode Shortcuts" in Jupyter Lab:
+
+    1. Shift + Enter:
+    ==> Run the current cell and move to the next cell.
+
+
+    2. Ctrl + Enter:
+    ==> Run the current cell and stay in the same cell.
+
+
+    3. Alt + Enter:
+    ==> Run the current cell and insert a new cell below.
+
+
+    4. a:
+    ==> Add/Insert a new cell above the current cell.
+
+
+    5. b:
+    ==> Add/Insert a new cell below the current cell.
+
+
+    6. c:
+    ==> Copy selected cell.
+
+
+    7. v:
+    ==> Paste cells below. 
+
+
+    8. z:
+    ==> Undo the last step u have done.
+        (i.e undo recent thing u have done)
+
+
+    9. m:
+    ==> Change a current cell to Markdown cell.
+
+
+    10. y:
+    ==> Change a current cell to Code cell from a Markdown cell.
+
+
+    11. dd:
+    ==> To delte the current cell.
+
+
+    12. ii:
+    ==> To Interrupt Kernel / Cell Execution through the Keyboard (i.e KeyboardInterrupt)
+
+
+    13. 00 (twice zero, quickly):
+    ==> To Restart the Kernel.
+
+
+    14. Ctrl + f:
+    ==> To Find and Replace.
+
+
+    15. Ctrl + /:
+    ==> To comment & uncomment line.
+    ==> If u want to comment multiple line, then select multiple lines at first.
+
+
+    16. Ctrl + s
+    ==> Save and Checkpoint
+
+
+    17. Ctrl + B
+    OR, Ctrl + shift + f
+    ==> To Toggles the visibility of left side bar.
+    (Used to increase the workspace screen)
+
+
+    18. Space:
+    ==> To Scroll Notebook Down.
+
+
+    19. Shift + Space:
+    ==> To scroll Notebook Up.

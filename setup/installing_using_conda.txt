@@ -1,0 +1,22 @@
+
+# Installing Jupyter Notebook in Conda Virtual environment:
+
+
+    1. To create a virtual environment:
+    ==> conda create --name jup_env python=3.8
+
+
+    2. Activate the virtual environment:
+    ==> conda activate jup_env
+
+
+    3. To install Jupyter Lab:
+    ==> conda install jupyterlab
+
+
+    4. Start/Run/launch Jupyterlab local server:
+    ==> jupyter lab 
+
+
+
+Wallah! 

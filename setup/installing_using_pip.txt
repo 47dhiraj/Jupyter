@@ -1,0 +1,54 @@
+
+ 
+# To install/setup jupyter notebook in virtualenv in ubuntu:
+
+
+    # One time setup command : For setting up actual pip for Ubuntu Default Python using sudo command:
+        ==> sudo apt install python3-pip
+
+
+    ## Best way (sometime due to pip conflict, while creating venv, requirements can't be installed properly):
+
+        # One time setup command : for installing virtualenv using sudo
+            ==> sudo apt install python3-virtualenv
+
+        # Now, u can create virtualenv for python whenever you wants:
+            ==> virtualenv virtual_env_folder
+
+
+
+    ## Alternative Way (this is also good way):
+
+        # (one time command) At first install python-venv:
+            ==> SYNTAX: sudo apt install pythonversion-venv
+            ==> eg: sudo apt install python3.10-venv
+
+
+        # Create the virutal environment folder
+            ==> python3 -m venv virtual_env_folder
+
+
+
+
+    Now, activate the above created virtual env:
+        ==> source virtual_env_folder/bin/activate
+        eg: source jupyter_env/bin/activate
+
+        NOTE: (Which Python) For checking currently which python is available:
+            ==> which python
+
+
+    # For installing jupyter lab:
+        ==> python -m pip install jupyterlab
+
+    # for setting up seperate python kernel for virtual env:
+        ==> python -m ipykernel install --user --name=venv
+        eg: python -m ipykernel install --user --name=jupyter_env
+
+
+    Now, To execute/run jupyter notebook server in port '8888' tree:
+            ==> jupyter lab
+
+    
+
+    Wallah !

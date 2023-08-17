@@ -1,0 +1,63 @@
+
+# My most used "Edit Mode Shortcuts" in Jupyter Lab:
+
+    1. Tab
+    ==> Type something and press Tab
+        (For code auto completion)
+
+
+    2. Shift + Tab
+    ==> To see the detail/all parameters of any mehtod/function and also place the mouse cursor in the middle of the method parenthesis
+        (Shows docstring and function signature help)
+
+
+    3. Shift + Enter
+    ==> Run the current cell & advance to next cell below.
+
+
+    4. Alt + Enter
+    ==> Run the current cell & insert a new cell below.
+
+
+    5. Ctrl + Enter
+    ==> Run the cell & stay on that cell
+
+
+    6. Ctrl + d
+    ==> To delte that whole line
+
+
+    7. Ctrl + Backspace
+    ==> To delete word before(rapidly backspace word by word)
+
+
+    8. Ctrl + Delete
+    ==> To delete word after
+
+
+    9. Ctrl + z
+    ==> To undo last step
+
+
+    10. Ctrl + Shift + z
+    ==> To redo last undo
+
+
+    11. Ctrl + c
+    ==> To copy cell line 
+
+
+    12. Ctrl + x
+    ==> To cut cell line
+
+
+    13. Ctrl + v
+    ==> To paste cell line
+
+    14. Ctrl + Shift +  -
+    ==> Split the cell at cursor position
+
+
+
+
+Wallah !
